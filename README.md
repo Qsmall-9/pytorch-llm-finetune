@@ -262,12 +262,6 @@ python Train.py
 - **Microsoft**: 提出 LoRA 参数高效微调技术
 - **PyTorch Team**: 提供强大的深度学习框架
 
-## 📞 联系方式
-
-- **GitHub**: [@your-username](https://github.com/your-username)
-- **Email**: your-email@example.com
-- **博客**: your-blog-url
-
 ---
 
 ⭐ **如果这个项目对你有帮助，请给个 Star！**
